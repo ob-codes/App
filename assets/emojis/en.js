@@ -198,7 +198,7 @@ const enEmojis = {
         keywords: ['geek', 'glasses', 'face', 'nerd'],
     },
     '🧐': {
-        keywords: [],
+        keywords: ['face with monocle'],
     },
     '😕': {
         keywords: ['face'],
@@ -402,7 +402,7 @@ const enEmojis = {
         keywords: ['love'],
     },
     '🧡': {
-        keywords: [],
+        keywords: ['orange', 'orange heart'],
     },
     '💛': {
         keywords: ['heart', 'yellow'],
@@ -456,10 +456,10 @@ const enEmojis = {
         keywords: [],
     },
     '🗨️': {
-        keywords: [],
+        keywords: ['comment', 'balloon', 'left', 'speech', 'bubble'],
     },
     '🗯️': {
-        keywords: [],
+        keywords: [comment', 'balloon', 'right', 'anger', 'bubble'],
     },
     '💭': {
         keywords: ['thinking', 'balloon', 'bubble', 'comic', 'thought'],
@@ -474,7 +474,7 @@ const enEmojis = {
         keywords: ['backhand', 'raised'],
     },
     '🖐️': {
-        keywords: [],
+        keywords: ['fronthand', 'raised', 'hand with fingers splayed'],
     },
     '✋': {
         keywords: ['highfive', 'stop', 'raised_hand', 'body'],
